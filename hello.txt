@@ -1,8 +1,0 @@
-asdfasdfasdfasdf
-<<<<<<< HEAD
-hello vishal:)
-=======
-Helooo Ann Maryy.. 
->>>>>>> 95ee7de7008142829dbf39c2624236b678644522
-
-
